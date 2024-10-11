@@ -1,4 +1,4 @@
-package org.automation.assesment;
+package org.arya;
 
 /**
  * Hello world!

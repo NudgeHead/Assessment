@@ -12,7 +12,7 @@ With the help of this project, users from the city "FanCode" will be able to see
 
 
 #### Executing the Project
-    **mvn clean install** in the terminal
+    mvn clean install in the terminal
 	To execute the code
-	**mvn exec:java -Dexec.mainClass="Automation"**
+	mvn exec:java -D"exec.mainClass"="Automation"
    	completionPercentage
